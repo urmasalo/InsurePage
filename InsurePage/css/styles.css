@@ -1,0 +1,230 @@
+a{
+    text-decoration: none;
+    color: unset;
+}
+.a-decoration-underline:hover {
+    text-decoration: underline;
+}
+body{
+    margin: 0;
+}
+.buttonViewPlans1{
+    border: #2d2640;
+    border-style: solid;
+    border-width: 1px;
+    width: 146px;
+}
+.buttonViewPlans2{
+    border: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    width: 145px;
+    height: 40px;
+    text-align: center;
+    background-color: #2d2640;
+    color: #ffffff;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.buttonhowWeWork{
+    border: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    width: 145px;
+    height: 40px;
+    text-align: center;
+    background-color: #2d2640;
+    color: #ffffff;
+    font-size: 14px;
+    position: absolute;
+    margin: 107px 80px 107px 870px;
+}
+.buttonhowWeWork:hover{
+    background-color: #ffffff;
+    color: #2d2640;
+}
+.buttonViewPlans2:hover{
+    background-color: #fafafa;
+    color: #2d2640;
+}
+.container1{
+    background-color:#2d2640 ;
+    height: 600px;
+    color: #ffffff;
+    background-image: url("../images/bg-pattern-intro-right-desktop.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.container1 p{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    line-height: 2;
+}
+.container2{
+    height: 940px;
+}
+.container2 h1{
+    font-size: 70px;
+    line-height: .9;
+    font-weight: lighter;
+    font-family: 'DM Serif Display', serif;
+    margin: 80px 0 0 165px;
+    color: #2d2640;
+}
+.container3{
+    background-color: #2d2640;
+    font-family: 'DM Serif Display', serif;
+    width: 1110px;
+    height: 250px;
+    margin: 0 auto 150px auto;
+    background-image: url("../images/bg-pattern-how-we-work-desktop.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.container3 h1{
+    margin: 78px 555px 75px 75px;
+    position: absolute;
+    color: #ffffff;
+    font-size: 50px;
+    line-height: .9;
+    font-weight: lighter;
+}
+.container4{
+    height: 400px;
+    background-color: #fafafa;
+    background-image: url("../images/bg-pattern-footer-desktop.svg");
+    background-repeat: no-repeat;
+}
+.facebook:hover, .instagram:hover, .twitter:hover, .pinterest:hover{
+    filter: saturate(100000%)
+}
+
+.hr1{
+    width: 150px;
+    margin: 99px 0 0 0;
+    border-style: solid;
+}
+.hr2{
+    width: 150px;
+    margin: 300px 0 0 165px;
+    color: #837d87;
+    border-style: solid;
+}
+.imageIntro{
+    margin: 105px 165px 0 20px;
+    width: 540px;
+    height: 650px;
+    float: right;
+}
+.intro h1{
+    font-size: 70px;
+    line-height: .9;
+    font-weight: lighter;
+    margin-top: 72px;
+    font-family: 'DM Serif Display', serif;
+}
+.logo{
+    margin: 31px 10px 31px 169px ;
+}
+.logo2{
+    margin: 66px 0 24px 0px ;
+}
+.menu1, .menu2, .menu3{
+    float: right;
+    padding: 0 20px 0 20px;
+    height: 40px;
+    margin: 20px 0 0 0;
+    border: none;
+    color: #95a9c6;
+    font-size: 14px;
+}
+.menu1:hover, .menu2:hover, .menu3:hover{
+    color: #2d2640;
+}
+.menu4{
+    float: right;
+    padding: 0 20px 0 20px;
+    height: 40px;
+    width: 145px;
+    margin: 20px 165px 20px 0;
+    border: #2d2640;
+    border-width: 1px;
+    border-style: solid;
+    font-size: 14px;
+    text-align: center;
+}
+.menu4:hover{
+    background-color: #2d2640;
+    color: #fafafa;
+}
+.menuBar{
+    background-color: #ffffff ;
+    height: 80px ;
+}
+.middletd{
+    padding: 0 20px 0 20px;
+}
+.pattern-intro-left-desktop{
+    margin-top: 510px;
+    position: absolute;
+}
+.tableBottom{
+    width: 1110px;
+    margin: 24px auto auto auto;
+    font-family: 'Karla', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+.tableBottom td{
+    width: 285px;
+    height: 29px;
+    text-align: left;
+}
+.tableHead{
+    color: #837d87;
+    padding-bottom: 19px;
+}
+.tableIntro{
+    margin: 0 0 0 167px;  
+}
+.tableMenu{
+    float: right;
+    margin:18px 165px 18px 0; 
+    height: 44px;
+    color: #837d87;
+    font-size: 15px;
+}
+.tableSocialMedia{
+    width: 1110px;
+    height: 122px;
+    margin: 0 auto 0px auto;
+}
+.tableSocialMedia a{
+    margin: 62px 0 0 16px;
+    float: right;
+}
+.tableSocialMedia td{
+    margin: 0 auto 150px auto;
+}
+.tdSpace{
+    height: 9px;
+}
+.tableWereDifferent{
+    margin: 102px auto 166px auto;
+    width: 1110px;
+    color: #2d2640;
+}
+.tableWereDifferent p{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: lighter;
+    color: #837d87;
+}
+
+
+   
+
+
+
+
